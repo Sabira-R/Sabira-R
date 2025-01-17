@@ -15,4 +15,4 @@
 - 💬 Ask me about....Nothing  
 - 📫 How to reach me: [sabira.rahman1@g.bracu.ac.bd](mailto:sabira.rahman1@g.bracu.ac.bd)  
 - 😄 Pronouns: She/her  
-- ⚡ Fun fact: I believe the 'Journey of Learning' is the most exciting part of any project.  
+- ⚡ Fun fact: My code works on the first try... after 47 attempts. 
