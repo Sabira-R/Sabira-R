@@ -8,11 +8,11 @@
   
 </div>  
 
-- 🔭 I’m currently exploring projects in Machine Learning and Artificial Intelligence.  
+- 🔭 I’m currently exploring Machine Learning and Artificial Intelligence.  
 - 🌱 Always trying to learn and expand my knowledge  
 - 👯 Open to collaborating on beginner-friendly AI/ML/Python projects.  
-- 🤔 Looking for guidance on advanced AI techniques and best practices.  
+- 🤔 Looking for guidance on advanced ML/AI techniques and best practices.  
 - 💬 Ask me about....Nothing  
 - 📫 How to reach me: [sabira.rahman1@g.bracu.ac.bd](mailto:sabira.rahman1@g.bracu.ac.bd)  
 - 😄 Pronouns: She/her  
-- ⚡ Fun fact: I believe the 'journey of learning' is the most exciting part of any project.  
+- ⚡ Fun fact: I believe the 'Journey of Learning' is the most exciting part of any project.  
