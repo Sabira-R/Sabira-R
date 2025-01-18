@@ -1,4 +1,3 @@
-## Hi there 👋  
 <marquee> <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! My name is <b> Sabira Rahman </b> I'm a learner, who is pursuing cse in BRAC University. For now , i only know about python but have plans to work on different languages in future  </samp></h4> </marquee>
 
 <p align="center">
@@ -7,7 +6,7 @@
 
 
 <p align="center">
-<a href= "https://web.facebook.com/HeyiamSad"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/46-facebook-512.png" width="40" height="25"/></a>
+<a href= "864879416002084893"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/46-facebook-512.png](https://cdn3.iconfinder.com/data/icons/picons-social/57/68-discord-512.png" width="40" height="25"/></a>
 <a href= "https://www.instagram.com/__i__am__sad___/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="32" height="23"/></a>
 <a href= "https://twitter.com/_i__am__sad"><img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" width="32" height="23"/></a>
 </p>
