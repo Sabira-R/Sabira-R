@@ -56,5 +56,5 @@ Check out my repos ⬇️
   </samp>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabira-r&repo=CGPA-Calculator-For-BRAC-University-Students-BRACU&theme=radical)](https://github.com/programophile/CGPA-Calculator-For-BRAC-University-Students-BRACU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabira-r&repo=JobMadeEz_MERNProject&theme=radical)](https://github.com/Sabira-R/JobMadeEz_MERNProject)
 
