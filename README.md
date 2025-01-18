@@ -6,7 +6,10 @@
 
 
 <p align="center">
-<a href= "864879416002084893"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/46-facebook-512.png](https://cdn3.iconfinder.com/data/icons/picons-social/57/68-discord-512.png" width="40" height="25"/></a>
+<a href="https://discordapp.com/users/864879416002084893" target="_blank">
+  <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/68-discord-512.png" width="40" height="25" alt="Discord Logo" />
+</a>
+
 <a href= "https://www.instagram.com/__i__am__sad___/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="32" height="23"/></a>
 <a href= "https://twitter.com/_i__am__sad"><img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" width="32" height="23"/></a>
 </p>
