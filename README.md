@@ -1,5 +1,5 @@
 ## Hi there 👋  
-<marquee> <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! My name is <b> Sad Yeamin Sayem </b> I'm a learner, who is pursuing cse in BRAC University. For now , i only know about python but have plans to work on different languages in future  </samp></h4> </marquee>
+<marquee> <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! My name is <b> Sabira Rahman </b> I'm a learner, who is pursuing cse in BRAC University. For now , i only know about python but have plans to work on different languages in future  </samp></h4> </marquee>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
