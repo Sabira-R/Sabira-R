@@ -36,7 +36,7 @@ Welcome to my GitHub!</samp></h3> </marquee>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabira-r&show_icons=true&theme=radical&locale=en&layout=compact" alt="sabira-r" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabira-r&show_icons=true&theme=radical&locale=en&layout=compact" alt="sabira-r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabira-r&show_icons=true&theme=radical&locale=en" alt="sabira-r" /></p>
 
