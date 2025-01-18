@@ -4,16 +4,12 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-
 <p align="center">
-<a href="https://discordapp.com/users/864879416002084893" target="_blank">
-  <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/68-discord-512.png" width="40" height="25" alt="Discord Logo" />
-</a>
+<a href="https://discordapp.com/users/864879416002084893" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Discord_black_D.svg" alt="Discord Logo" width="100" height="25" style="vertical-align: middle; margin-right: 8px;" /></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" ](https://upload.wikimedia.org/wikipedia/commons/8/82/Discord_black_D.svg"alt="Instagram Logo" width="25" height="25" style="vertical-align: middle; margin-right: 8px;" /></a>
+<a href="https://www.twitter.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter Logo" width="25" height="25" style="vertical-align: middle;" /></a>
 
-<a href= "https://www.instagram.com/__i__am__sad___/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="32" height="23"/></a>
-<a href= "https://twitter.com/_i__am__sad"><img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" width="32" height="23"/></a>
 </p>
-
 
 <div align="center">
 
