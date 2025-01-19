@@ -29,7 +29,7 @@ Welcome to my GitHub!</samp></h3> </marquee>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabira-r&label=Profile%20views&color=17202b&style=for-the-badge" alt="programophile" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabira-r&label=Profile%20views&color=17202b&style=for-the-badge" alt="sabira-r" /> </p>
 
 
 
